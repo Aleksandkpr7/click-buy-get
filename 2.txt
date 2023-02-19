@@ -1,0 +1,6 @@
+<html>
+<head>
+<body>
+<h1>Click and buy!</h1>
+</head>
+</html>
